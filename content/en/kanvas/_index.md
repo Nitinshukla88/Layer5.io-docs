@@ -54,7 +54,7 @@ aliases:
       box-shadow: none;
     }
 </style>  
-## Understanding the Meshery Ecosystem
+## Understanding the Layer5 Ecosystem
 
 <a href="/cloud">
 <div class="hidden-highlight-box">
@@ -65,11 +65,6 @@ aliases:
 </div>
 </a>
 
-<a href="https://docs.meshery.io" target="_blank">
-<div class="hidden-highlight-box"><div class="logo-container">{{< svg name="meshery" >}}</div>
-<div style="flex: 1;color:#ccc;">
-<strong>Meshery</strong> is a cloud native manager that enables the design and management of Kubernetes-based infrastructure and applications. It is an extensible developer platform that seamlessly integrates with all CNCF projects, and various monitoring, CI/CD, and security tools.</div></div>
-</a>
 
 <a href="/kanvas">
 <div class="highlight-box"><div class="logo-container" style="height:65px;width:65px;margin-left:-.45rem;"><img src="/images/logos/kanvas-icon-color.svg" style="border:0px;" alt="kanvas logo"/></div>
@@ -81,7 +76,7 @@ aliases:
 
 ## What is Kanvas?
 
-<p style="display:flex;text-align:center;margin:1rem auto;color:white;"><i>Kanvas is like Google Docs for DevOps, as it allows you to create, test, and deploy cloud native architectures collaboratively and easily.</i></p>
+<p style="display:flex;text-align:center;margin:1rem auto;color:white;"><i>Kanvas is like Google Workspace for DevOps, as it allows you to create, test, and deploy cloud native architectures collaboratively and easily.</i></p>
 
 Kanvas is a web-based application that allows you to create and share orchestratable diagrams of cloud native infrastructure for Kubernetes and public cloud services. You can draw shapes, lines, text, and icons to represent your infrastructure components and their relationships. Kanvas also supports freestyle design, meaning that you can customize the appearance and layout of your diagrams without any constraints. Kanvas enables real-time collaboration, meaning that you can invite others to join your sessions and edit the diagrams together. Kanvas is a simple and intuitive tool for designing and communicating cloud native infrastructure for Kubernetes and multi-cloud services.
 

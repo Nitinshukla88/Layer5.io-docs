@@ -5,6 +5,7 @@ description: >
 categories: [Identity]
 tags: [orgs]
 ---
+<<<<<<< HEAD
 <div style="display:flex; align-items: start;flex-direction: row;flex: 1 1 auto; ">
   <div style="flex-direction: column;">
     <p>
@@ -23,3 +24,11 @@ tags: [orgs]
       width="auto" />
   </div>
 </div>
+=======
+
+Organizations are the basic unit of multi-tenancy inside of Layer5 Cloud. Organizations can have any number of teams. Teams can have any number of users. Users can belong to any number of teams. Users may belong to any number of organizations.
+
+Outside of grouping users together, teams offer control access to workspaces and to workspace resources such as environments and managed and unmanaged connections
+
+<img src="/cloud/identity/images/organization_units.svg" alt="Organizational units" style="width: 35%;" />
+>>>>>>> 572f3193238045f10cbd41c4525ce25b17f07da5

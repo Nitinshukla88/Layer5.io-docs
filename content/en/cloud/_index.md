@@ -46,7 +46,11 @@ cascade:
     }
 </style>  
 
+<<<<<<< HEAD
 ## Understanding the Meshery Ecosystem
+=======
+## Understanding the Layer5 Ecosystem
+>>>>>>> 572f3193238045f10cbd41c4525ce25b17f07da5
 
 <div class="highlight-box" style="display:flex; gap: .5rem;">
                 
@@ -58,12 +62,15 @@ cascade:
 </div>
 </div>
 
+<<<<<<< HEAD
 <a href="https://docs.meshery.io">
 <div class="hidden-highlight-box"  style="display: flex; align-self:center; margin-top:15px;"><div class="logo-container">{{< svg name="meshery" >}}</div>
 <div style="flex: 1;color:#ccc;">
 <strong>Meshery</strong> is a cloud native manager that enables the design and management of Kubernetes-based infrastructure and applications. It is an extensible developer platform that seamlessly integrates with all CNCF projects, and various monitoring, CI/CD, and security tools.</div></div>
 </a>
 
+=======
+>>>>>>> 572f3193238045f10cbd41c4525ce25b17f07da5
 <a href="/kanvas">
 <div class="hidden-highlight-box" style="display: flex; align-self:center; margin-top:15px;"><div class="logo-container" style="height:65px;width:65px;margin-left:-.45rem;"><img src="/images/logos/kanvas-icon-color.svg" style="border:0px;" alt="kanvas logo"/></div>
 <div style="flex: 1;color:#ccc;">
