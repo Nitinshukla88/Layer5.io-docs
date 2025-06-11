@@ -1,55 +1,12 @@
 ---
 title: User Management
 description: >
-<<<<<<< HEAD
-  Efficiently manage and organize users within Layer5 Cloud with our comprehensive user management capabilities.
-=======
   Learn how to create, add, invite, and manage users within Layer5 Cloud.
->>>>>>> 572f3193238045f10cbd41c4525ce25b17f07da5
 weight: 4
 categories: [Identity]
 tags: [users]
 ---
 
-<<<<<<< HEAD
-There are three essential aspects of user management:
-
-- Create User
-- Add User/ Remove User
-- Invite User
-
-## Create User
-
-Seamlessly initiate new user accounts, ensuring a smooth onboarding process. Specify user details, such as email, and tailor their access by adding them to one or more organizations. Optionally assign roles, defining their scope within the platform. Complete the process by sending a personalized account setup email, streamlining the user's introduction to Layer5 Cloud.
-
-<img src="/cloud/identity/users/create-user.gif" alt="Create User" />
-
-{{< alert type="info" title="Note" >}}
-Only Provider Admins and Organization Admin can create users. For more information, see [Roles](/cloud/security/roles).
-{{< /alert >}}
-
-## Add User/ Remove User
-
-Add or remove users from the selected organization.
-
-1. Navigate to the **Users** tab in the Identity section.
-2. Click the **Add User** button.
-3. Select the organization to which you want to add the user.
-4. Select the user from the list of available users.
-5. From below chips, click on cross icon to remove the user from the organization.
-
-<img src="/cloud/identity/users/add-user.gif" alt="Add User" />
-
-![Flow for organization and team membership](/cloud/identity/users/Slide41.svg)
-
-## Invite User
-
-Invite users to join your organization. Specify the user's name and email address and tailor their involvement by adding them to **organizations** and **teams**, optionally assigning predefined roles.
-
-
-{{< alert type="info" title="Note" >}}
-An Organization Admin can assign organization roles to users but provider roles can only be assigned by Provider Admins. For more information, see [Roles](/cloud/security/roles).
-=======
 This guide outlines methods for creating user accounts, adding users to organizations, inviting new members, and managing user access within Layer5 Cloud to maintain a secure and organized environment.
 
 ![User Management options](/cloud/identity/users/org_invite.png)
@@ -111,5 +68,4 @@ You can invite new or existing users to join one of your organizations by sendin
 
 {{< alert type="info" title="Permissions for Role Assignment" >}}
 An Organization Admin can assign organization roles to users, but provider roles can only be assigned by Provider Admins. For more information, see [Roles](/cloud/security/roles).
->>>>>>> 572f3193238045f10cbd41c4525ce25b17f07da5
 {{< /alert >}}
